@@ -342,6 +342,7 @@ section {
 .aside {
   flex-basis: 210px;
   flex-grow: 0;
+  flex-shrink: 0;
   padding-left: 10px;
   margin-top: 20px;
 }
