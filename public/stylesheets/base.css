@@ -561,7 +561,8 @@ footer li {
 .hint > li {
   display: inline-block;
   padding: 20px 10px 10px;
-  background-color: rgba(0,0,0,.3);
+  /*background-color: rgba(0,0,0,.3);*/
+  background-color: rgba(206,93,234,.5);
   border-radius: 5px;
 }
 .fixed-hint-top {
@@ -583,7 +584,8 @@ footer li {
   top: 5px;
 }
 .hint > li:hover {
-  background-color: rgba(0,0,0,.6);
+  /*background-color: rgba(0,0,0,.6);*/
+  background-color: rgba(196,16,218,.6);
 }
 .hint > li:hover > a {
   color: #ddd;

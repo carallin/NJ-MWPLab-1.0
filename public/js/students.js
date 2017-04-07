@@ -100,7 +100,7 @@ var students = [
   {
     "id":11,
     "name": "田响",
-    "src": "../images/girl.jpg",
+    "src": "../images/tianxiang.jpg",
     "year": 2014,
     "now": "硕士",
     "study": "光子集成",

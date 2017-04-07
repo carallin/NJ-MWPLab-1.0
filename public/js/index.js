@@ -84,6 +84,8 @@ function changeTo(index,currentIndex) {
     $(indexs[currentIndex]).removeClass('current-index');
     $(images[currentIndex]).hide('fast');
     $(images[index]).show('slow');
+    // $(images[currentIndex]).hide('fast', 'linear');
+    // $(images[index]).show('slow', 'linear');
     $(indexs[index]).addClass('current-index');
   }
 };

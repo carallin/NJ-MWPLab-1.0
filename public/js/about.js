@@ -1,7 +1,5 @@
 $(function () {
   $('#menu').on('click', 'li', function (e) {
-    console.log(e.target);
-    console.log($(e.target).attr("href"));
     var id = $(e.target).attr('href');
     var items = $('#article').find('.item');
 
