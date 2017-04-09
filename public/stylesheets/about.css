@@ -68,3 +68,20 @@
   flex-basis: 280px;
   flex-grow: 1;
 }
+
+/********************************friendlinks---***********************************/
+.item.friendlinks ul{
+  /*padding-left: 10px;*/
+  margin-left: 10px;
+  /*border: 1px solid red;*/
+}
+.item.friendlinks li {
+  list-style-type: disc;
+  list-style-position: inside;
+}
+.item.friendlinks li a{
+  text-decoration: none;
+}
+.item.friendlinks .li-title {
+  list-style-type: none;
+}
