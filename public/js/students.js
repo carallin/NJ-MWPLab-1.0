@@ -1,3 +1,4 @@
+//该文件存储的是在读学生-students 和 已毕业的学生-formerstudents 的信息。若要添加和修改直接在本文件修改。
 var students = [
   {
     "id":1,
